@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on RPi FM Radar Projects.<br><br>Javascript main.<br><br>Tech nerd.
+Currently working on RPi FM Radar Projects. and minecraft thingies??<br><br>Javascript main.<br><br>Tech nerd.
 
 
 # 💻 Tech Stack:
