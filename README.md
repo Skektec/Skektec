@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on websites and minecraft thingies??<br><br>Javascript main.<br><br>Tech nerd.
+Currently working on discord bots<br><br>Javascript main.<br><br>Tech nerd.
 
 
 # 💻 Tech Stack:
