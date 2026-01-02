@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning C# and other object orientated languages<br><br>Javascript main.<br><br>Tech nerd.
+JS / C# dev<br><br>Interested in everything tech
 
 # 📊 GitHub Stats:
 ![](https://skektec-github-readme-stats.vercel.app/api?username=Skektec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
